@@ -24,6 +24,3 @@ Skills: Java / Python / C# / Software Engineering / Machine Learning / Image Pro
   </a>
 </div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsneh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
