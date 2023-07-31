@@ -1,15 +1,15 @@
 ### Hi there 👋 ,my name is Shir Sneh
 I am a Software Engineer and I have a BSc. in Computer Science.
 
-Strongly believe that a good software engineer loves and enjoys it! So that's what I do: I love to solve complex problems, using code.
+I strongly believe that a good Software Engineer loves and enjoys it! So that's what I do: I love to solve complex problems, using code.
 
-Skills: Java / Python / C# / Software Engineering / Machine Learning / Image Processing
+Skills: Java / Python / C# / Software Engineering / Machine Learning / Image Processing / Computer Vision.
 
 🔭 I’m currently working on a cool project!
 
-🌱 I’m currently learning Deep Learning & Artificial Intelligence.
+🌱 I’m currently learning Microservices and Cloud.
 
-👯 I’m looking to collaborate on Software Engineering / ML / AI / Image Processing projects.
+👯 I’m looking to collaborate on Software Engineering / ML / AI / Image Processing / Computer Vision projects.
 
 ⚡ Fun fact: I write short stories in my spare time :)
 
