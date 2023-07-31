@@ -18,8 +18,8 @@ Skills: Java / Python / C# / Software Engineering / Machine Learning / Image Pro
    You are more than welcome to send me an Email at: shirsneh.career@gmail.com
   
    Or you can reach me at Linkedin:
-<div id="badges">
-  <a href="[linkedin.com/in/shir-sneh](https://www.linkedin.com/in/shir-sneh/)">
+[LinkedIn](https://www.linkedin.com/in/shir-sneh/)
+
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
