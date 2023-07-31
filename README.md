@@ -1,5 +1,5 @@
 ### Hi there 👋 ,my name is Shir Sneh
-I am a Software Engineer and I have a BCS. in Computer Science.
+I am a Software Engineer and I have a BSc. in Computer Science.
 
 Strongly believe that a good software engineer loves and enjoys it! So that's what I do: I love to solve complex problems, using code.
 
