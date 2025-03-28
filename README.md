@@ -31,7 +31,8 @@ Interested in ML, DL, CV, Image Processing and Backend development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shir-sneh/)
 
 ## 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirsneh&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=shirsneh&theme=radical&hide_border=false)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shirsneh&theme=tokyonight)
 
