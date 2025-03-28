@@ -32,8 +32,6 @@ Interested in ML, DL, CV, Image Processing and Backend development.
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shirsneh&theme=radical&hide_border=false&include_all_commits=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shirsneh&theme=tokyonight)
 
 
