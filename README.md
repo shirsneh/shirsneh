@@ -20,6 +20,7 @@ Interested in ML, DL, CV, Image Processing and Backend development.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![REST](https://img.shields.io/badge/REST-005C97?style=flat&logo=api&logoColor=white)
 
 ## 📫 How to reach me: 
 
