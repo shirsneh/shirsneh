@@ -1,6 +1,6 @@
 ## Hi there 👋 ,my name is Shir Sneh
-I am a passionate Software Engineer. 
-Interested in ML, AI and Backend development.
+I am a passionate Data Engineer. 
+Interested in AI and Data & Fullstack development.
 
 ## 💻 Tech Stack:
 
